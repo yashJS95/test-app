@@ -1,0 +1,38 @@
+
+.selectedRowColor{
+    background-color: rgba(22, 22, 234, 0.323);
+}
+
+.table_body{
+    height: 500px !important;
+    overflow: auto !important;
+}
+
+.margin_0{
+    margin: 0px !important;
+}
+
+.chakra-table__container .chakra-table{
+    border-radius: 80px !important;
+}
+
+.cursor_pointer{
+    cursor: pointer !important;
+}
+
+.pagination{
+    position: absolute !important;
+    z-index: 1000 !important;
+    bottom: -100px !important;
+    right: 190px !important;
+}
+
+/* .pagination_container{
+    width: 422% !important;
+}
+
+@media screen and (max-width : 1800px){
+    .pagination_container{
+        width: 385% !important;
+    }
+} */
